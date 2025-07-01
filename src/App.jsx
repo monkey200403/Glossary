@@ -9,7 +9,6 @@ import { Usestate } from './hooks/Usestate'
 import { UseEffect } from './hooks/UseEffect'
 import { Apintegration } from './hooks/Apintegration'
 
-import './Dictionaryproject/Dictionary.css'
 import { Dictionary } from './Dictionaryproject/Dictionary'
 
 
